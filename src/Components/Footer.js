@@ -33,7 +33,7 @@ const Footer = () => {
                         <li><NavLink to="" className="nav-link m-t">Premier Access</NavLink></li>
                         <li><NavLink to="" className="nav-link m-t">The Disney Bundle</NavLink></li>
                     </Nav>
-                    <CopyRight><p>&copy; DisneyPlus-JSStack. All Rights Reserved {Year}</p></CopyRight>
+                    <CopyRight><p>&copy; DisneyPlus. All Rights Reserved {Year}</p></CopyRight>
                 </Container>
             </DisneyFooter>
         </>
